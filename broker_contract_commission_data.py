@@ -19,3 +19,6 @@ class brokerFuturesContractCommissionData(futuresContractData):
     @property
     def data(self):
         return self._data
+
+
+## dit is om te oefenen
